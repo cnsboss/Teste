@@ -16,7 +16,7 @@ df_products = pd.DataFrame(products)
 df_users = pd.DataFrame(users)
 
 conn = psycopg2.connect(
-    host="localhost",
+    host="localhost", 
     database="Teste",
     user="postgres",
     password="123456"
