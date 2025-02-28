@@ -1,0 +1,82 @@
+[
+  {
+    "order_id": 1001,
+    "customer_id": 1,
+    "product_id": 1,
+    "date_id": "2025-02-20",
+    "quantity": 2,
+    "total_value": 59.98
+  },
+  {
+    "order_id": 1002,
+    "customer_id": 2,
+    "product_id": 2,
+    "date_id": "2025-02-21",
+    "quantity": 1,
+    "total_value": 29.99
+  },
+  {
+    "order_id": 1003,
+    "customer_id": 3,
+    "product_id": 3,
+    "date_id": "2025-02-22",
+    "quantity": 3,
+    "total_value": 89.97
+  },
+  {
+    "order_id": 1004,
+    "customer_id": 1,
+    "product_id": 2,
+    "date_id": "2025-02-23",
+    "quantity": 4,
+    "total_value": 119.96
+  },
+  {
+    "order_id": 1005,
+    "customer_id": 2,
+    "product_id": 3,
+    "date_id": "2025-02-24",
+    "quantity": 2,
+    "total_value": 59.98
+  },
+  {
+    "order_id": 1006,
+    "customer_id": 3,
+    "product_id": 1,
+    "date_id": "2025-02-25",
+    "quantity": 5,
+    "total_value": 149.95
+  },
+  {
+    "order_id": 1007,
+    "customer_id": 4,
+    "product_id": 4,
+    "date_id": "2025-02-26",
+    "quantity": 1,
+    "total_value": 39.99
+  },
+  {
+    "order_id": 1008,
+    "customer_id": 5,
+    "product_id": 5,
+    "date_id": "2025-02-27",
+    "quantity": 3,
+    "total_value": 89.97
+  },
+  {
+    "order_id": 1009,
+    "customer_id": 4,
+    "product_id": 2,
+    "date_id": "2025-02-28",
+    "quantity": 2,
+    "total_value": 59.98
+  },
+  {
+    "order_id": 1010,
+    "customer_id": 5,
+    "product_id": 1,
+    "date_id": "2025-03-01",
+    "quantity": 1,
+    "total_value": 29.99
+  }
+]
